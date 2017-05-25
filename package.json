@@ -1,0 +1,13 @@
+{
+  "name": "landsat_scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.mit.edu:linusfy/landsat_scraper.git",
+  "author": "Linus",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "x-ray": "^2.3.2"
+  }
+}
